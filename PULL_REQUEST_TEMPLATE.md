@@ -15,6 +15,8 @@ Insert description of PR here
 
 * [] The file is named NameOfProblem.py, NameOfProblem.js, etc. depending on the type of solution
 * [] File is within a solution folder within the problem's folder
+* [] Function has been called with test input to output desired result
+
 
 
 ### Adding yourself as a contributor.
