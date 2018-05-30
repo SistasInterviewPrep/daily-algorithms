@@ -16,3 +16,7 @@ Take note! At the moment we generally structure and namespace our files like so:
 				├── testing (folder)
 					├──(any testing files you may need!)
 
+```
+## Credits
+
+* [Monica Powell](https://github.com/m0nica)
