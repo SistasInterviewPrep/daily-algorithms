@@ -1,4 +1,7 @@
 # daily-algorithms
+
+[![Pull Requests](https://img.shields.io/github/issues-pr/SistasInterviewPrep/daily-algorithms.svg)](https://github.com/SistasInterviewPrep/daily-algorithms/pulls)
+
 Collection of algorithms problems and solutions for study group.
 
 ## Contributing Problems and Solutions to the Repo!
