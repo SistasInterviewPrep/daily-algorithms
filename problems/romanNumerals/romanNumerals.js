@@ -1,4 +1,4 @@
-function romanToNum(str){
+function romanToNumv1(str){
 
 	let map = {'I': 1, 'V':5, 'X':10, 'L':50, 'C':100, 'D':500, 'M': 1000};
 	let split = str.split('');
@@ -33,8 +33,23 @@ function romanToNum(str){
 	}
 
 	return result;
-	
+}
 
+function romanToNum(str) {
+	let map = {'I': 1, 'V':5, 'X':10, 'L':50, 'C':100, 'D':500, 'M': 1000};
+	let split = str.split('');
+	let result = 0;
+
+	for (let i = 0; i < split.length; i++) {
+		if (map[split[i + 1]] < map[split[i]]) {
+			result += (map[split[i]] - map[split[i + 1]] );
+			i++
+		}
+		else {
+			result += map[split[i]];
+		}
+	}
+	return result;
 }
 
 const three = 'III';
