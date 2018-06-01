@@ -24,3 +24,4 @@ Take note! At the moment we generally structure and namespace our files like so:
 
 * [Monica Powell](https://github.com/m0nica)
 * [Jessica Joseph](https://github.com/theflawlesshack)
+* [Niko Lewis](https://github.com/NikoLewis)
