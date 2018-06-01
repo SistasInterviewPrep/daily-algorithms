@@ -23,5 +23,6 @@ Take note! At the moment we generally structure and namespace our files like so:
 ## Credits
 
 * [Monica Powell](https://github.com/m0nica)
+* [Nichole Shelton](https://github.com/vibrantlife)
 * [Jessica Joseph](https://github.com/theflawlesshack)
 * [Niko Lewis](https://github.com/NikoLewis)
