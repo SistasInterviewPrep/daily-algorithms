@@ -8,11 +8,13 @@ function longestSubstr(s) {
 
 	while (i < length && j < length) {
 		if (!set.has(s.charAt(j))) {
-			set.add(s.charAt(j++));
+			set.add(s.charAt(j));
+			j++;
 			result = Math.max(result, j - i);
 		}
 		else {
-			set.delete(s.charAt(i++));
+			set.delete(s.charAt(i));
+			i++;
 		}
 	}
 	return result;
