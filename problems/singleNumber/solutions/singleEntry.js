@@ -24,3 +24,5 @@ const ex2 = [4,1,2,1,2];
 console.log(singleEntry(ex1));
 console.log(singleEntry(ex2));
 
+//xor 
+
