@@ -13,9 +13,9 @@ Insert description of PR here
 
 > If adding solution,
 
-* [] The file is named NameOfProblem.py, NameOfProblem.js, etc. depending on the type of solution
-* [] File is within a solution folder within the problem's folder
-* [] Function has been called with test input to output desired result
+* [x] The file is named NameOfProblem.py, NameOfProblem.js, etc. depending on the type of solution
+* [x] File is within a solution folder within the problem's folder
+* [x] Function has been called with test input to output desired result
 
 
 
