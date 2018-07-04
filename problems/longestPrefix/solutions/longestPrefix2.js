@@ -1,10 +1,11 @@
 function LongestPrefix (array){
-let prefix;
-array.forEach( word =>{
-   if(prefix == undefined){
-       prefix = word;
-   }
-   else if()
- })
-
-}
+        var dup = {};
+        let splitWord = array.map(word => word.split(""))
+        let flattenArr = splitWord.reduce( (a,b) => a.concat(b) )
+          flattenArr.forEach( (letter,index)=>{
+              dup.hasOwnProperty(letter) ? dup[letter]++ : dup[letter] = 1
+          })
+      
+      }
+      
+      LongestPrefix(["flower","flow","flight"])
