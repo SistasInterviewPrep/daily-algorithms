@@ -1,3 +1,10 @@
-function LongestPrefix (string){
- let strArr = string.split(" ");
+function LongestPrefix (array){
+let prefix;
+array.forEach( word =>{
+   if(prefix == undefined){
+       prefix = word;
+   }
+   else if()
+ })
+
 }
