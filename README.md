@@ -26,3 +26,4 @@ Take note! At the moment we generally structure and namespace our files like so:
 * [Nichole Shelton](https://github.com/vibrantlife)
 * [Jessica Joseph](https://github.com/theflawlesshack)
 * [Niko Lewis](https://github.com/NikoLewis)
+* [Aditi Green](https://github.com/Asaki444)
